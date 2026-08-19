@@ -22,6 +22,6 @@
     <InternalsVisibleTo Include="CryptoExchanges.Net.Coinbase.Tests.Unit" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="10.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="10.9.0" />
   </ItemGroup>
 </Project>
